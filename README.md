@@ -1,4 +1,4 @@
-# HTTP-Server-Python-Flask
+# A Simple HTTP-Server with Python and Flask
 Two Simple HTTP Servers Written in Python/Flask
 
 server.py uses built in http.server module, which provides a basic HTTP Server.
